@@ -31,3 +31,7 @@ readme
   
   ## Questions
   If you have any questions, you can reach me at [fethiyesilver@gmail.com](mailto:fethiyesilver@gmail.com) or visit my GitHub profile at [https://github.com/fetieh](https://github.com/fetieh).
+
+
+  Video of the readme generator 
+https://capture.dropbox.com/qGYzqD5BYU98LG6f
